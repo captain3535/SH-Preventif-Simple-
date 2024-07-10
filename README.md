@@ -13,15 +13,10 @@ Prérequis
 -Permissions sudo pour exécuter les commandes iptables.
 
 
-
 Installation :
 
 
-Clonez ce dépôt sur votre serveur :
-
-git clone https://github.com/votre-utilisateur/votre-repo.git
-
-Rendez le script exécutable :
+Clonez ce dépôt sur votre serveur puis rendez le script exécutable :
 
 chmod +x ddos_firewall.sh
 
